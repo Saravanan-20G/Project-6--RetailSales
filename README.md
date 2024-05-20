@@ -3,3 +3,5 @@ You are provided with historical sales data for 45 stores located in different r
 Within the Excel Sheet, there are 3 Tabs – Stores, Features and Sales
 ## Features
 Merge the dataset 
+analyses the datas
+findout the algorithm
