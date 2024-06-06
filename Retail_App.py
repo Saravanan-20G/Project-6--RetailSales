@@ -57,7 +57,7 @@ if button:
     input_data = np.array([[store, temperature, cpi, unemployment, isholiday_int, department, type_int, size, year]])
     
     # Load the saved model
-    file_path = 'regression_model.pkl'  # Adjust the file path as per your saved model
+    file_path = 'resale_regression_model.pkl'  # Adjust the file path as per your saved model
     loaded_model = load(file_path)
     
     # Make predictions
